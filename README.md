@@ -17,7 +17,7 @@
 
 This project has been developed as part of the **IBM SkillsBuild Data Analytics with AI Academic Internship Program 2026**, conducted by **BharatCares in association with AICTE**.
 
-The project focuses on analyzing the **New York City Airbnb Open Data** dataset and developing a Machine Learning classification model that predicts the type of Airbnb listing based on different characteristics of the property.
+The project focuses on analyzing the **New House Pricing Open Data** dataset and developing a Machine Learning classification model that predicts the type of Airbnb listing based on different characteristics of the property.
 
 The model predicts one of the following three room types:
 
@@ -143,7 +143,7 @@ The main objectives of this project are:
 ## Dataset Name
 
 ```text
-New York City Airbnb Open Data
+House Pricing Open Data
 ```
 
 ## Dataset Source
